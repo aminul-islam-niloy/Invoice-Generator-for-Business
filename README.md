@@ -9,8 +9,7 @@ This is a simple invoice generator-making idea and a small project for beginners
 </a>
 
 <h2>Opeaetion View:</h2>
-<a href="" target="_blank"
-   style="max-width: 50%; height: auto;>
+<a href="" target="_blank">
   <img src="https://github.com/aminul-islam-niloy/Invoice-Generator-for-Business/blob/master/Swopnil%20IT/Resources/Operational.jpg"/>
 </a>
 <h2>Print View:</h2>
